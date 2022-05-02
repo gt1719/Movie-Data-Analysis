@@ -30,9 +30,17 @@ According to the dataset people have watched the most movies in 2018.This graph 
 
 <img align="center" width="600" height="400" src='images/YEAR.png'>
 
+Comparing the domestic and foreign gross over total gross, percentages shows that publishing the movie worldwide increase the profit 20% more then domestic gross.
+
+<img align="center" width="600" height="400" src='images/df.png'>
+
+Overall the dataset shows us the year including 2016 to 2019, the movie business' foreign gross is decreasing ahead of domestic gross.
+
+<img align="center" width="600" height="400" src='images/gross.png'>
+
 ## Conclusions
 
-Determining the data gives us info about the ratings on the genres which aren't a criteria for the profit of the genres. While top profitibality genres are the Animation, Adventure and Sci-fi, the recomendation is to start a movie business on these genres.Further information is needed to emphasize the most total gross in the year (2018) as seasonal top pick to publish the movie for the higest profit expectation.
+Determining the data gives us info about the ratings on the genres which aren't a criteria for the profit of the genres. While top profitibality genres are the Animation, Adventure and Sci-fi, the recomendation is to start a movie business on these genres.Also, the difference between the domestic and foreign gross shows that publising movie nationwide increase the profit 20%.In this case, movie should publish worldwide.Besides, the information of the year shows us after 2016 the movies attention by the consumer decreases.So, company shoudnt publish the movie untill the market attention increases.
 
 ## For More Information
 See the full analysis in the Jupyter Notebook or review this presentation.
